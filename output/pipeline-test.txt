@@ -1,0 +1,9 @@
+PROCESSED FILE
+===============
+
+Original file: pipeline-test.txt
+Character count: 51
+Word count: 7
+
+Original content:
+This is a production-style event-driven test file.

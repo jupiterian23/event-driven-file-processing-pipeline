@@ -1,0 +1,10 @@
+{
+  "LambdaFunctionConfigurations": [
+    {
+      "LambdaFunctionArn": "arn:aws:lambda:ap-south-1:751955865143:function:event-file-processing",
+      "Events": [
+        "s3:ObjectCreated:*"
+      ]
+    }
+  ]
+}

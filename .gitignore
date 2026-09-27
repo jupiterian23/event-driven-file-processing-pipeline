@@ -1,0 +1,15 @@
+# Lambda package
+lambda.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# AWS CLI / local output
+response.json
+
+# OS files
+.DS_Store
+Thumbs.db

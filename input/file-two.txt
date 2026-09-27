@@ -1,0 +1,1 @@
+S3 events trigger serverless workloads.
